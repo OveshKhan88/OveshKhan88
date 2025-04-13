@@ -65,8 +65,7 @@ GitHub Analytics
   <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=OveshKhan88&layout=compact&langs_count=8&theme=dark"/>
 <br>
 <br>
- [![GitHub Streak](https://streak-stats.demolab.com?user=OveshKhan88&theme=dark&hide_border=true)](https://git.io/streak-stats)
-<!--  <img src="https://streak-stats.demolab.com/?user=OveshKhan88&theme=dark&hide_border=false%22%20alt=%22manan%22%20width=%2250%%22" alt="OveshKhan88" width="50%"   />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=OveshKhan88&theme=dark&hide_border=true" alt="GitHub Streak" /></a><!--  <img src="https://streak-stats.demolab.com/?user=OveshKhan88&theme=dark&hide_border=false%22%20alt=%22manan%22%20width=%2250%%22" alt="OveshKhan88" width="50%"   />
 <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OveshKhan88&theme=dark" alt="OveshKhan88" width="50%"   /> -->
 </div>
 
