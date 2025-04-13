@@ -36,16 +36,6 @@
 
   ![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter)
   ![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase)
-  ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
-  ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3)
-  ![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazon-aws)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-  ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
-  ![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=c%2B%2B)
-  ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-  ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=sql)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
-  ![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask)
   ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
   ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
 </div>
@@ -75,6 +65,7 @@ GitHub Analytics
   <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=OveshKhan88&layout=compact&langs_count=8&theme=dark"/>
 <br>
 <br>
+ [![GitHub Streak](https://streak-stats.demolab.com?user=OveshKhan88&theme=dark&hide_border=true)](https://git.io/streak-stats)
 <!--  <img src="https://streak-stats.demolab.com/?user=OveshKhan88&theme=dark&hide_border=false%22%20alt=%22manan%22%20width=%2250%%22" alt="OveshKhan88" width="50%"   />
 <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OveshKhan88&theme=dark" alt="OveshKhan88" width="50%"   /> -->
 </div>
